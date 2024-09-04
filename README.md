@@ -1,5 +1,8 @@
 # irc
 
+Internet Relay Chat or IRC is a text-based communication protocol on the Internet.It offers real-time messaging that can be either public or private. Users can exchange direct messages and join group channels. IRC clients connect to IRC servers in order to join channels. IRC servers are connected together to form a network.
+
+
 Creating an IRC server (`ircserv`) in C++98 can be a challenging but rewarding project. Here’s a simplified step-by-step explanation of how you can implement it:
 
 ### Step-by-Step Implementation of `ircserv`

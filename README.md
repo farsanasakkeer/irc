@@ -80,3 +80,6 @@ Creating an IRC server (`ircserv`) in C++98 can be a challenging but rewarding p
 - Test your server thoroughly to confirm compliance with the IRC protocol.
 
 By following these steps, you’ll be well on your way to successfully implementing your IRC server (`ircserv`) in C++98. If you need more details on any particular step or code snippets, feel free to ask!
+
+
+`SOMAXCONN`: This is a constant that specifies the maximum number of incoming connections the server can queue before it starts rejecting new ones. It's typically defined by the operating system.
